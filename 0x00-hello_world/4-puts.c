@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
- * My first C PROGRAM
- * Always begin with a header file
- * Then your main function
- */
+/** Printing with put function*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
