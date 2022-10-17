@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * My first C PROGRAM
  * Always begin with a header file
  * Then your main function
